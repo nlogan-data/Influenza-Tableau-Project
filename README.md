@@ -23,7 +23,9 @@ Stakeholders include medical frontline staff, healthcare providers using the sta
 •	Assess data limitations that may prevent you from conducting your desired analyses.
 
 ## Tools and Skills
- 
+
+![Excel logo](https://user-images.githubusercontent.com/97688439/151724108-f129c503-8a52-4093-95a6-99feeef1ebe0.png)
+
 **Excel:** Analysis
 
 •	Data Integrity Checks
